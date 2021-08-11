@@ -84,6 +84,7 @@
 		E4A0DFCE26C3C7CF00264FC4 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A0DFCD26C3C7CF00264FC4 /* LandmarkList.swift */; };
 		E4A0DFD026C3D0BD00264FC4 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A0DFCF26C3D0BD00264FC4 /* LandmarkCommands.swift */; };
 		E4A0DFD126C3D0BD00264FC4 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A0DFCF26C3D0BD00264FC4 /* LandmarkCommands.swift */; };
+		E4A0DFD326C3D97A00264FC4 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A0DFD226C3D97A00264FC4 /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -189,6 +190,7 @@
 		E4A0DFCB26C3C0F800264FC4 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		E4A0DFCD26C3C7CF00264FC4 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		E4A0DFCF26C3D0BD00264FC4 /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		E4A0DFD226C3D97A00264FC4 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -414,6 +416,7 @@
 				E4A0DFB426C3B35000264FC4 /* Preview Content */,
 				E4A0DFCB26C3C0F800264FC4 /* LandmarkDetail.swift */,
 				E4A0DFCF26C3D0BD00264FC4 /* LandmarkCommands.swift */,
+				E4A0DFD226C3D97A00264FC4 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -665,6 +668,7 @@
 				E4A0DFB126C3B34F00264FC4 /* ContentView.swift in Sources */,
 				E4A0DFC026C3BD6E00264FC4 /* LandmarkList.swift in Sources */,
 				E4A0DFC526C3BD6E00264FC4 /* LandmarkRow.swift in Sources */,
+				E4A0DFD326C3D97A00264FC4 /* LandmarkSettings.swift in Sources */,
 				E4A0DFC626C3BD6E00264FC4 /* Profile.swift in Sources */,
 				E4A0DFC226C3BD6E00264FC4 /* Landmark.swift in Sources */,
 				E4A0DFC726C3BD6E00264FC4 /* CircleImage.swift in Sources */,
